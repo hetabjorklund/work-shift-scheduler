@@ -29,7 +29,7 @@ The scheduler uses the terms of the collective labor agreement of the given fiel
 
 ## Challenges
 
-The scheduler will not determine what is the best work schedule - it only produces alternatives which are possible given the conditions. The employee in charge of shift scheduling must choose the most appropriate one and tweak it if needed. (Of course, if there are many restricting conditions, there might be only one - or none - possible solution.)
+The scheduler will not determine what is the best work schedule - it only produces alternatives which are possible given the conditions. The employee in charge of shift scheduling must choose the most appropriate one and tweak it if needed. (Of course, if there are many restricting conditions, there might be only one possible solution - or none.)
 
 ## What next?
 
